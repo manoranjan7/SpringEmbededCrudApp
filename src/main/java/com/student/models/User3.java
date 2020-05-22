@@ -6,6 +6,7 @@ public class User3 {
 	{
 		System.out.println("Nishant");
 		System.out.println("gghjgjhgjh");
+		System.out.println("N1");
 	}
 
 }
