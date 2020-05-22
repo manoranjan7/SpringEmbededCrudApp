@@ -5,7 +5,9 @@ public class User3 {
 	public void method3()
 	{
 		System.out.println("Nishant");
-		System.out.println("Removal");
+		System.out.println("gghjgjhgjh");
+		System.out.println("N1");
+		System.out.println("new line");
 	}
 
 }
